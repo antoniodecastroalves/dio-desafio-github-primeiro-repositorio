@@ -12,7 +12,7 @@ $ cd dio-desafio-github-primeiro-repositorio
 ```
 ~~~
 
--[x] Criando novo arquivo
+- [X] Criando novo arquivo
 
-- [x] Executar commit 
+- [X] Executar commit 
 - [X] Atualizar repositório remoto
